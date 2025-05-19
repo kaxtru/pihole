@@ -35,16 +35,27 @@ ff02::3 ip6-allhosts
 0.0.0.0 netflix.com
 0.0.0.0 primevideo.com
 0.0.0.0 max.com
+0.0.0.0 hbomax.com
 0.0.0.0 disneyplus.com
 0.0.0.0 hulu.com
   
 0.0.0.0 youtube.com
 0.0.0.0 youtu.be
+0.0.0.0 twitch.tv
+0.0.0.0 dailymotion.com
+0.0.0.0 crunchyroll.com
+0.0.0.0 fmovies.to
   
 0.0.0.0 facebook.com
 0.0.0.0 instagram.com
 0.0.0.0 snapchat.com
 0.0.0.0 reddit.com
 0.0.0.0 tumblr.com
+0.0.0.0 twitter.com
+0.0.0.0 x.com
+0.0.0.0 discord.com
+0.0.0.0 pinterest.com
+0.0.0.0 tiktok.com
+
 
 0.0.0.0 nordvpn.com
