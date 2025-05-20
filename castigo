@@ -39,7 +39,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 disneyplus.com
 0.0.0.0 hulu.com
 0.0.0.0 globoplay.com
-0.0.0.0 apple.com/apple-tv-plus
+0.0.0.0 tv.apple.com
 0.0.0.0 paramountplus.com
 0.0.0.0 starplus.com
   
@@ -56,7 +56,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 music.youtube.com
 0.0.0.0 fmovies.to
   
-0.0.0.0 facebook.com
+# 0.0.0.0 facebook.com
 0.0.0.0 instagram.com
 0.0.0.0 tiktok.com
 0.0.0.0 twitter.com
